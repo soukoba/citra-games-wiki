@@ -1,0 +1,5 @@
+title = "Animal Crossing: New Leaf"
+id = ["0004000000086300"]
+compatibility = 2
+tested_date = "2017-05-31"
+tested_version = "HEAD-4857eb4"
