@@ -1,0 +1,5 @@
+title = "Super Smash Bros. for Nintendo 3DS"
+id = ["00040000000EDF00"]
+compatibility = 4
+tested_date = "2017-05-31"
+tested_version = "HEAD-4857eb4"
