@@ -1,0 +1,5 @@
+title = "Pokémon Omega Ruby and Alpha Sapphire"
+id = ["000400000011C400", "000400000011C500"]
+compatibility = 4
+tested_date = "2017-05-31"
+tested_version = "HEAD-4857eb4"
