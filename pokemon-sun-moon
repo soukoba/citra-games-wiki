@@ -1,0 +1,5 @@
+title = "Pokémon Sun and Moon"
+id = ["0004000000164800", "0004000000175E00"]
+compatibility = 4
+tested_date = "2017-05-31"
+tested_version = "HEAD-4857eb4"
