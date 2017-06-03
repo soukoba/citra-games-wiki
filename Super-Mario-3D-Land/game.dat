@@ -8,10 +8,5 @@ needs_shared_font = false
 
 [[ releases ]]
 title = "0004000000054000"
-<<<<<<< HEAD
 region = "USA"
-release_date = ""
-=======
-region = "NTSC-U"
 release_date = "2011-11-13"
->>>>>>> Finished adding game descriptions and release dates.
