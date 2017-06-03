@@ -3,8 +3,8 @@ description = ""
 compatibility = 0
 tested_date = "2017-06-03"
 tested_version = "HEAD-a7ddec8"
-needs_system_files = false
-needs_shared_font = false
+needs_system_files =
+needs_shared_font =
 
 [[ releases ]]
 title = "0004000000188C00"
