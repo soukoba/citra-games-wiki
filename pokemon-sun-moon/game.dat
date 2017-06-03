@@ -8,10 +8,10 @@ needs_shared_font = false
 
 [[ releases ]]
 title = "0004000000164800"
-region = "NTSC-U"
+region = "USA"
 release_date = ""
 
 [[ releases ]]
 title = "0004000000175E00"
-region = "NTSC-U"
+region = "USA"
 release_date = ""
