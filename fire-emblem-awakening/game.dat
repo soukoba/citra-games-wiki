@@ -1,5 +1,12 @@
 title = "Fire Emblem Awakening"
-id = ["00040000000A0500"]
+description = ""
+releases = [
+  title = "00040000000A0500"
+  region = "NTSC-U"
+  release_date = "",
+]
 compatibility = 3
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
+needs_system_files = false
+needs_shared_font = false

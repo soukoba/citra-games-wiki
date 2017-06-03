@@ -1,5 +1,12 @@
 title = "Super Smash Bros. for Nintendo 3DS"
-id = ["00040000000EDF00"]
+description = ""
+releases = [
+  title = "00040000000EDF00"
+  region = "NTSC-U"
+  release_date = "",
+]
 compatibility = 4
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
+needs_system_files = false
+needs_shared_font = false

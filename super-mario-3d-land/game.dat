@@ -1,5 +1,12 @@
 title = "Super Mario 3D Land"
-id = ["0004000000054000"]
+description = ""
+releases = [
+  title = "0004000000054000"
+  region = "NTSC-U"
+  release_date = "",
+]
 compatibility = 4
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
+needs_system_files = false
+needs_shared_font = false
