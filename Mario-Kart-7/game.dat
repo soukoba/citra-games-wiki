@@ -1,0 +1,12 @@
+title = "Mario Kart 7"
+description = "Mario Kart 7 is a 2011 racing video game. It is the seventh major installment in the Mario Kart series and the third to be released for handheld consoles."
+compatibility = 3
+tested_date = "2017-06-03"
+tested_version = "HEAD-a7ddec8"
+needs_system_files = true
+needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000030800"
+region = "USA"
+release_date = "December 4, 2011"
