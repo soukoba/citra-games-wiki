@@ -3,8 +3,8 @@ description = ""
 compatibility = 2
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
-needs_system_files = false
-needs_shared_font = false
+needs_system_files = true
+needs_shared_font = true
 
 [[ releases ]]
 title = "0004000000055D00"
