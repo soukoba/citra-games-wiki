@@ -1,5 +1,5 @@
 title = "Animal Crossing: New Leaf"
-description = ""
+description = "Animal Crossing: New Leaf is a life simulation video game developed and published by Nintendo for the Nintendo 3DS console. In the game, the player character takes on the role of mayor in a town populated with anthropomorphic animals."
 compatibility = 2
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
@@ -9,4 +9,4 @@ needs_shared_font = false
 [[ releases ]]
 title = "0004000000086300"
 region = "USA"
-release_date = ""
+release_date = "2013-06-09"
