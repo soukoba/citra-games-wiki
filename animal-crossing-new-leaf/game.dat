@@ -1,12 +1,12 @@
 title = "Animal Crossing: New Leaf"
 description = ""
-releases = [
-  title = "0004000000086300"
-  region = "NTSC-U"
-  release_date = "",
-]
 compatibility = 2
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
 needs_system_files = false
 needs_shared_font = false
+
+[[ releases ]]
+title = "0004000000086300"
+region = "NTSC-U"
+release_date = ""
