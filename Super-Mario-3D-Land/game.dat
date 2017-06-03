@@ -1,12 +1,12 @@
 title = "Super Mario 3D Land"
 description = ""
-compatibility = 4
+compatibility = 3
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
-needs_system_files = false
+needs_system_files = true
 needs_shared_font = false
 
 [[ releases ]]
 title = "0004000000054000"
-region = "NTSC-U"
+region = "USA"
 release_date = ""
