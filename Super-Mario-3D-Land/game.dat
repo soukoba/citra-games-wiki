@@ -1,6 +1,6 @@
 title = "Super Mario 3D Land"
-compatibility = 3
 description = "Super Mario 3D Land is a platform game in the Super Mario series developed by Nintendo EAD Tokyo, with development assistance from Brownie Brown, for the Nintendo 3DS. The game was the first in the Mario franchise to be released for the system and was released worldwide in November 2011."
+compatibility = 2
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
 needs_system_files = true

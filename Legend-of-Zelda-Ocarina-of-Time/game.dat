@@ -1,6 +1,6 @@
 title = "The Legend of Zelda: Ocarina of Time 3D"
 description = "The Legend of Zelda: Ocarina of Time 3D is an action-adventure video game co-developed by Grezzo and Nintendo EAD Tokyo and published by Nintendo for the Nintendo 3DS handheld game console. The game was released worldwide in June 2011."
-compatibility = 5
+compatibility = 0
 tested_date = "2017-06-03"
 tested_version = "HEAD-a7ddec8"
 needs_system_files = false

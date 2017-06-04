@@ -1,6 +1,6 @@
 title = "Super Smash Bros. for Nintendo 3DS"
 description = "Super Smash Bros. for Nintendo 3DS is a fighting video game developed by Sora Ltd. and Bandai Namco Games, with assistance from tri-Crescendo, and published by Nintendo for the Nintendo 3DS and video game consoles. Despite being similarly titled games, even with almost similar content, the two titles are officially considered the fourth and fifth versions, respectively, in the Super Smash Bros. series of games by creator and game director Masahiro Sakurai."
-compatibility = 4
+compatibility = 1
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
 needs_system_files = true
