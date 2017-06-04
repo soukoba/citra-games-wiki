@@ -1,6 +1,6 @@
 title = "Pokémon Omega Ruby and Alpha Sapphire"
 description = "Pokémon Omega Ruby and Alpha Sapphire are two 2014 role-playing video games developed by Game Freak and published by Nintendo for the Nintendo 3DS family of systems. They are part of the sixth generation of the Pokémon series, serving as enhanced remakes of the 2002 Game Boy Advance titles Pokémon Ruby and Sapphire."
-compatibility = 4
+compatibility = 1
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
 needs_system_files = true

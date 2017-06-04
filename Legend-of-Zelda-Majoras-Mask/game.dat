@@ -1,6 +1,6 @@
 title = "The Legend of Zelda: Majora's Mask 3D"
 description = "The Legend of Zelda: Majora's Mask 3D is an action-adventure video game co-developed by Grezzo and Nintendo for the Nintendo 3DS handheld game console. The game is an enhanced remake of The Legend of Zelda: Majora's Mask, which was originally released for the Nintendo 64 home console in 2000. The game was released worldwide in February 2015"
-compatibility = 4
+compatibility = 1
 tested_date = "2017-06-03"
 tested_version = "HEAD-a7ddec8"
 needs_system_files = false

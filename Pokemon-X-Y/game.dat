@@ -1,6 +1,6 @@
 title = "Pokémon X and Y"
 description = "Pokémon X and Pokémon Y are role-playing video games developed by Game Freak and published by Nintendo for the Nintendo 3DS. They are the first installments in the sixth generation of the Pokémon series of role-playing games."
-compatibility = 2
+compatibility = 3
 tested_date = "2017-05-31"
 tested_version = "HEAD-4857eb4"
 needs_system_files = true
