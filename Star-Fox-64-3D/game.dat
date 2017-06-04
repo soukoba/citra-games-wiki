@@ -1,6 +1,6 @@
 title = "Star Fox 64 3D"
 description = "Star Fox 64 3D is a video game for the Nintendo 3DS and is a remake of Star Fox 64. It was co-developed between Nintendo EAD and Q-Games, and was published by Nintendo. It was released on July 14, 2011 in Japan, September 9, 2011 in Europe and North America, and on September 15, 2011 in Australia."
-compatibility = 1
+compatibility = 4
 tested_date = "2017-06-04"
 tested_version = "HEAD-8f0a23b"
 needs_system_files = false
