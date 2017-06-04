@@ -3,6 +3,7 @@ description = "Mario Sports Superstars is a sports video game developed by Banda
 compatibility = 0
 tested_date = "2017-06-03"
 tested_version = "HEAD-a7ddec8"
+tested_by = "Flamboyant_Ham"
 
 [[ releases ]]
 title = "0004000000188C00"

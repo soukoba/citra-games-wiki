@@ -5,6 +5,7 @@ tested_date = "2017-06-03"
 tested_version = "HEAD-e46ec64"
 needs_system_files = false
 needs_shared_font = false
+tested_by = "Leo121"
 
 [[ releases ]]
 title = "00040000000EC300"
