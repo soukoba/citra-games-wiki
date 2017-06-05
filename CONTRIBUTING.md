@@ -28,6 +28,7 @@ The metadata for the game is located at `/<Game Name>/game.dat`. This is require
 - `tested_version` (String): Last version of Citra the game was tested on.
 - `needs_system_files` (Boolean): Whether the game requests the system files or not, regardless of whether it could be played without them.
 - `needs_shared_font` (Boolean): Whether the game requests the shared font or not, regardless of whether it could be played without them.
+- `tested_by` (String): Your forum account name, if you have one. If you don't, don't include this line.
 
 - `releases` (Array of tables): Info about each release of the game.
   - `title` (String): Title ID of this release of the game.
