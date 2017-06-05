@@ -1,11 +1,10 @@
 title = "Story of Seasons: Trio of Towns"
 description = "Story of Seasons: Trio of Towns, known in Japan as Bokujō Monogatari: Mittsu no Sato no Taisetsuna Tomodachi is a farming simulation game developed by Marvelous for the Nintendo 3DS. In this installment, in addition to the usual farmland which the player owns, the player is able to visit three towns, each with their own distinct culture and lifestyles."
-compatibility = 2
+compatibility = 0
 tested_date = "2017-06-05"
 tested_version = "HEAD-8f0a23b"
 needs_system_files = false
 needs_shared_font = false
-tested_by = "soukoba"
 
 [[ releases ]]
 title = "000400000019F500"
